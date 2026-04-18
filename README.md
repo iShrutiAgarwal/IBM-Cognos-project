@@ -1,12 +1,12 @@
 # HR Analytics: Data Analysis & BI Reporting
 
+## Overview
 
-### Overview
+This project leverages IBM Cognos Analytics to transform raw data into actionable business intelligence. By utilizing advanced reporting and interactive dashboards, the project identifies key trends, optimizes data exploration, and allows the HR Department to take the appropriate steps to keep the organization running smoothly and profitably.
 
-This project leverages IBM Cognos Analytics to transform raw data into actionable business intelligence. By utilizing advanced reporting and interactive dashboards, the project identifies key trends, optimizes data exploration, and allows the HR Department to take the appropriate steps to keep the organization running smoothly and profitably. .
 ---
 
-### Objectives
+## Objectives
 
 - **Data Modeling:** Creating a robust data module to ensure accurate reporting.
 - **Interactive Visualization:** Design intuitive dashboards for real-time data exploration.
@@ -14,7 +14,7 @@ This project leverages IBM Cognos Analytics to transform raw data into actionabl
 - **Technical Mastery:** Demonstrate proficiency in IBM Cognos tools, including calculations, filters, and conditional formatting.
 ---
 
-### Dataset Profile
+## Dataset Profile
 
 - *Name:* HR analytics data
 - *Source:* https://www.kaggle.com/datasets/hopesb/hr-analytics-dataset
@@ -24,12 +24,12 @@ This project leverages IBM Cognos Analytics to transform raw data into actionabl
 - *Description:* Briefly explain the core focus (e.g., "This dataset tracks quarterly sales performance across four global regions.") This project helps us with interpreting organizational data. It finds the people-related trends in the data.
 ---
 
-### Key Insights
+## Key Insights
 
-Trend 1: [e.g., Sales spiked by 20% in Q3 due to...]
-Anomaly 2: [e.g., Region X underperformed despite high traffic...]
-Prediction 3: [e.g., Based on current data, [X] is expected to...]
+- **Trend 1:** [e.g., Sales spiked by 20% in Q3 due to...]
+- **Anomaly 2:** [e.g., Region X underperformed despite high traffic...]
+- **Prediction 3:** [e.g., Based on current data, [X] is expected to...]
 ---
 
-### Conclusion
+## Conclusion
 This project demonstrates the transition from raw data to business value. Through the use of IBM Cognos, I have created a scalable reporting framework that allows users to not only see what happened but understand why it happened through interactive storytelling.
